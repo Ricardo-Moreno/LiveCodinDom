@@ -1,0 +1,16 @@
+.red-title {
+  color: red;
+}
+
+.active {
+  background-color: yellow;
+}
+
+.open {
+  display: block;
+}
+
+.large-image {
+  width: 300px;
+  height: 300px;
+}
